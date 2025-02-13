@@ -1,0 +1,6 @@
+.idea
+secret.yaml
+.cursorrules
+.env
+
+**/__pycache__/
